@@ -6,7 +6,7 @@ Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
 - ## Číselné obory
     - ### 1.1 Přirozená čísla (**_N_**)
         - #### Nezáporná celá čísla
-        - [x] provádět aritmetické operace s přirozenými čísly
+        - [ ] provádět aritmetické operace s přirozenými čísly
         - [ ] rozlišit **prvočíslo a číslo složené**, **rozložit přirozené číslo na prvočinitele**
             - **Prvočinitel:** zobecnění prvočísel
                 - p v R kde p není 0 ani 1; kde a,b jsou v R; pokud p dělí a\*b tak p dělí a i b 
@@ -39,7 +39,7 @@ Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
                 - Např: 600: 2^3\*3\*5^2; 140: 2^2\*5\*7; N(600, 400) = 2^3\*3\*5^2\*7 = 4 200
     - ### 1.2 Celá čísla (**_Z_**)
         - #### **Přirozená čísla, nula a záporná čísla**
-        - [x] provádět aritmetické operace s celými čísly
+        - [ ] provádět aritmetické operace s celými čísly
         - [ ] užít pojem **opačné číslo**
             - Pro x je opačné číslo -x
     - ### 1.3 Racionální čísla  (**_Q_**)
