@@ -9,7 +9,7 @@ Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
         - [ ] provádět aritmetické operace s přirozenými čísly
         - [ ] rozlišit **prvočíslo a číslo složené**, **rozložit přirozené číslo na prvočinitele**
             - **Prvočinitel:** zobecnění prvočísel
-                - p v R kde p není 0 ani 1; kde a,b jsou v R; pokud p dělí a\*b tak p dělí a i b 
+                - p v R kde p není 0 ani 1; kde a,b jsou v R; pokud p dělí a\*b tak p dělí a i b
             - **Prvočíslo** = číslo dělitelné 1 a samo sebou (1 není prvočíslo)
             - **Číslo složené** = má více jak 2 dělitele (1 není složené číslo)
         - [ ] užít pojem **dělitelnost** přirozených čísel a **zanky dělitelnost**
@@ -78,20 +78,20 @@ Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
             - |-x| >= 0
             - na ose: vzdálenost bodu od nuly
         - [ ] provádět **operace s mocninami s celočíselným a racionálním exponentem a odmocninami**
-            - ![](image-ktltofln.png)
-            - ![](image-ktltooqf.png)
-            - ![](image-ktltoxrh.png)
-            - ![](image-ktltpb4s.png)
-            - ![](image-ktltpk3l.png)
+            - ![](images/image-ktltofln.png)
+            - ![](images/image-ktltooqf.png)
+            - ![](images/image-ktltoxrh.png)
+            - ![](images/image-ktltpb4s.png)
+            - ![](images/image-ktltpk3l.png)
 
-            - ![](image-ktltr1x5.png)
+            - ![](images/image-ktltr1x5.png)
 
-            - ![](image-ktltldyg.png)
-            - ![](image-ktltm9gg.png)
-            - ![](image-ktltmiy7.png)
-            - ![](image-ktltmqnb.png)
-            - ![](image-ktltmxqu.png)
-            - ![](image-ktltn5z4.png)
+            - ![](images/image-ktltldyg.png)
+            - ![](images/image-ktltm9gg.png)
+            - ![](images/image-ktltmiy7.png)
+            - ![](images/image-ktltmqnb.png)
+            - ![](images/image-ktltmxqu.png)
+            - ![](images/image-ktltn5z4.png)
 
         - [ ] řešit praktické úlohy s **mocninami s přirozeným exponentem a odmocninami**
     - ### 1.5 Číselné množiny
