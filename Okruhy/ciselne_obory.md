@@ -1,6 +1,6 @@
   # Číselné obory
-- ### 1.1 Přirozená čísla (**_N_**)
-    - #### Nezáporná celá čísla
+- ## 1.1 Přirozená čísla (**_N_**)
+    - ### **Nezáporná celá čísla**
     - [ ] provádět aritmetické operace s přirozenými čísly
     - [ ] rozlišit **prvočíslo a číslo složené**, **rozložit přirozené číslo na prvočinitele**
         - **Prvočinitel:** zobecnění prvočísel
@@ -19,33 +19,30 @@
             - 9: pokud je **ciferný coučet dělitelný 9**
     - [ ] rozlišit **čísla soudělná a nesoudělná**
         - Soudělná čísla
-            - Mají několik společných dělitelů
+            - Mají **několik společných dělitelů**
         - Nesoudělná čísla
-            - Mají jednoho společného dělitele (jedničku)
+            - Mají **jednoho společného dělitele - jedničku** (největší společný dělitel = 1)
     - [ ] určit **největšího společného dělitele** a **nejmenší společný násobek** přirozených čísel
-        - [**Největší společný dělitel**](https://clanky.rvp.cz/wp-content/upload/obrazky/7341/full/1.jpg?100650000000)
-            - Pomocí prvočíselného rozkladu dojdeme na prvočísla
-            - Vybereme ty prvočísla které mají **obě čísla společné** a vynásobíme je
-            - Např: 600: 2\*2\*2\*3\*5\*5; 140: 2\*2\*5\*7; D(600, 140) = 2\*2\*5 = 20
-        - [**Nejmenší společný násobek**](https://clanky.rvp.cz/wp-content/upload/obrazky/7341/full/2.jpg?100848000000)
-            - Pomocí prvočíselného rozkladu dojdeme na provčísla
-            - Stejná čísla rovnou skládáme do mocnin
-            - Vybereme **čísla s největší mocninou z dvou rozkladů**
-            - Např: 600: 2^3\*3\*5^2; 140: 2^2\*5\*7; N(600, 400) = 2^3\*3\*5^2\*7 = 4 200
-- ### 1.2 Celá čísla (**_Z_**)
-    - #### **Přirozená čísla, nula a záporná čísla**
+        - **Největší společný dělitel**
+            - Vezmeme **všechna prvočísla, která se vyskytují v obou (popř. ve všech) prvočíselných rozkladech** (pokud žádné takové není, je největší společný dělitel 1) a u každého se použije **nejmenší z mocnin, ve které se vyskytuje**
+            - Např: 600: 2\*2\*2\*3\*5\*5; 140: 2\*2\*5\*7; D(600, 140) = 2\*2\*5 = 20 | [Obrázek](https://clanky.rvp.cz/wp-content/upload/obrazky/7341/full/1.jpg?100650000000)
+        - **Nejmenší společný násobek**
+            - Vezmeme **všechna prvočísla, která se vyskytují alespoň v jednom rozkladu** a u každého z nich se **použije největší z mocnin, ve které se vyskytuje**
+            - Např: 600: 2^3\*3\*5^2; 140: 2^2\*5\*7; N(600, 400) = 2^3\*3\*5^2\*7 = 4 200 | [Obrázek](https://clanky.rvp.cz/wp-content/upload/obrazky/7341/full/2.jpg?100848000000)
+- ## 1.2 Celá čísla (**_Z_**)
+    - ### **Přirozená čísla, nula a záporná čísla**
     - [ ] provádět aritmetické operace s celými čísly
     - [ ] užít pojem **opačné číslo**
         - Pro x je opačné číslo -x
-- ### 1.3 Racionální čísla  (**_Q_**)
-    - #### **Čísla která lze vyjádřit jako zlomek**
+- ## 1.3 Racionální čísla  (**_Q_**)
+    - ### **Čísla která lze vyjádřit jako zlomek**
     - [ ] pracovat s různými tvary zápisu racionálního čísla a jejich převody
     - [ ] užít **dekadický zápis čísla**
         - 357 = 3\*10^2 + 5\*10^1 + 7\*10^0 = 3\*100 + 5\*10 + 7\*1
     - [ ] provádět **operace se zlomky**
-        - TODO
+        - [Odkaz](https://www.matweb.cz/zlomky) (přidám později)
     - [ ] provádět **operace s desetinnými čísly** včetně zaokrouhlování, určit řád čísla
-        - TODO
+        - [Odkaz](https://sites.google.com/site/gifric/dum/dum-racionalni-cisla/racionalni-cisla) (přidám později)
     - [ ] řešit úlohy na **procenta a zlomky**, užívat **trojčlenku a poměr**
         - Trojčlenka:
             - Přímá úměra:
@@ -57,11 +54,13 @@
                 - ↓ c ..... x? ↑
                 - x = b\*a/c
         - Poměr:
-            - TODO
+            - Poměr látek A a B => 5:3
+            - Možno vyjádřit jako zlomek: 5/3 ≐ 1.67
+            - Např.: 16:8 => 16/8 = 2 => Látky A je 2x více jak látky B
     - [ ] znázornit racionální číslo na číselné ose, porovnávat racionální čísla
     - [ ] užívat **jednotky a jejich převody**
-- ### 1.4 Reálná čísla  (**_R_**)
-    - #### **Čísla kterým lze jednoznačně přiřadit body nekonečné přímky**
+- ## 1.4 Reálná čísla  (**_R_**)
+    - ### **Čísla kterým lze jednoznačně přiřadit body nekonečné přímky**
     - [ ] zařadit číslo do příslučného číselného oboru
     - [ ] provádět aritmetické operace v číselných oborech, porovnávat reálná čísla
     - [ ] užít pojmy **opačné číslo a převrácené číslo**
@@ -89,7 +88,7 @@
         - ![](/images/image-ktltn5z4.png)
 
     - [ ] řešit praktické úlohy s **mocninami s přirozeným exponentem a odmocninami**
-- ### 1.5 Číselné množiny
+- ## 1.5 Číselné množiny
     - [ ] užívat označení **číselných oborů *N*, *Z*, *Q* a *R***
     - [ ] zapisovat a znázorňovat **číselné množiny a intervaly**, určovat jejich **průnik a sjednocení**
         - **Zápis:**
