@@ -6,7 +6,7 @@ Tento repozitář obsahuje shrnutí toho co byste měli umět k maturitě.
 Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
 
 ## Tematické okruhy
-- #### [Číselné obory](/Okruhy/Ciselne_obory.md) (4%-12%)
+- #### [Číselné obory](/Okruhy/ciselne_obory.md) (4%-12%)
 - #### Algebraické výrazy (8%-18%)
 - #### Rovnice a nerovnice (12%-20%)
 - #### Funkce (10%-20%)
