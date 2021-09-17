@@ -20,8 +20,10 @@ _Pozn.:_
 
 _1) V závorce je uvedeno zastoupení tematického okruhu v testu._
 
-_2) Okruhy u kterých je shrnutí už vytvořené jsou modré (jsou to linky). Ty okruhy u kterých ještě shrnutí vytvořené není jsou bíle (nejsou to linky). To je snad jednoduché ne?_
-
+## Povolené pomůcky
+- ### Matematické, fyzikální a chemické tabulky pro střední školy
+- ### Kalkulátor (bez grafického režimu, řešení rovnic a úprav algebraických výrazů)
+- ### Rýsovací potřeby
 ## Struktura
 Každý tematický obor má svůj `*.md` soubor ve složce Okruhy. V každém souboru okruhu jsou vypsány jednotlivé části konkrétního okruhu a konkrétní požadavky. U většiny najdete vysvětlení či ilustraci jak konkrétní věc funguje.
 
