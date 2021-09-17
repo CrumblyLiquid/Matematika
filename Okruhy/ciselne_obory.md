@@ -1,4 +1,8 @@
-  # Číselné obory
+[Domů](/README.md) | [Další](/Okruhy/algebraicke_vyrazy.md)
+
+---
+
+# 1. Číselné obory
 - ## 1.1 Přirozená čísla (**_N_**)
     - ### **Nezáporná celá čísla**
     - [ ] provádět aritmetické operace s přirozenými čísly
@@ -101,3 +105,7 @@
             - x ∉ A // x se nenachází v množině A
         - **Průnik:** A ∩ B
         - **Sjednocení:** A ∪ B
+
+---
+
+[Domů](/README.md) | [Další](/Okruhy/algebraicke_vyrazy.md)

@@ -7,14 +7,14 @@ Zdroj: https://maturita.cermat.cz/menu/katalogy-pozadavku
 
 ## Tematické okruhy
 - #### [Číselné obory](/Okruhy/ciselne_obory.md) (4%-12%)
-- #### Algebraické výrazy (8%-18%)
-- #### Rovnice a nerovnice (12%-20%)
-- #### Funkce (10%-20%)
-- #### Posloupnosti a finanční matematika (4%-14%)
-- #### Planimetrie (8%-18%)
-- #### Stereometrie (4%-12%)
-- #### Analytická geometrie (4%-14%)
-- #### Kombinatorika, pravděpodobnost, statistika (4%-14%)
+- #### [Algebraické výrazy](/Okruhy/algebraicke_vyrazy.md) (8%-18%)
+- #### [Rovnice a nerovnice](/Okruhy/rovnice_a_nerovnice.md) (12%-20%)
+- #### [Funkce](/Okruhy/funkce.md) (10%-20%)
+- #### [Posloupnosti a finanční matematika](/Okruhy/posloupnosti_a_financni_matematika.md) (4%-14%)
+- #### [Planimetrie](/Okruhy/planimetrie.md) (8%-18%)
+- #### [Stereometrie](/Okruhy/stereometrie.md) (4%-12%)
+- #### [Analytická geometrie](/Okruhy/analyticka_geometrie.md) (4%-14%)
+- #### [Kombinatorika, pravděpodobnost, statistika](/Okruhy/kombinatorika_pradepodobnost_a_statistika.md) (4%-14%)
 
 _Pozn.:_
 
